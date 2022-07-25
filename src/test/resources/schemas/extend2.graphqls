@@ -6,7 +6,7 @@ schema {
 
 # Queries related to assets
 extend type Query {
-    assets: [Asset!]
+    assets: [Asset!]!
 }
 
 extend type Mutation {
