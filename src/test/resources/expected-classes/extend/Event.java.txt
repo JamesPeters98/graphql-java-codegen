@@ -45,7 +45,6 @@ public class Event implements java.io.Serializable, PinnableItem, Node {
     /**
      * Optional list of assets
      */
-    @javax.validation.constraints.NotNull
     public java.util.List<Asset> getAssets() {
         return assets;
     }
