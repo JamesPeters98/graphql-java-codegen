@@ -80,7 +80,7 @@ extend type Event {
 }
 
 extend input EventInput {
-    assets: [AssetInput!]
+    assets: [AssetInput!]!
 }
 
 extend enum Status {
