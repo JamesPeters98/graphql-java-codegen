@@ -53,4 +53,3 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 [swagger-codegen](https://github.com/swagger-api/swagger-codegen)
 
-##
